@@ -1,0 +1,7 @@
+npm install -g meteorite
+
+
+
+
+------init SERVER
+mrt --port $IP:$PORT
