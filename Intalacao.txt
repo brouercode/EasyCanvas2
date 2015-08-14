@@ -1,8 +1,10 @@
 npm install -g meteorite
+mrt update
 
 ----O que está instalado
 mrt add bootstrap-3
 mrt add iron:router
+meteor add iron:routermrt
 
 ------init SERVER
 mrt --port $IP:$PORT
