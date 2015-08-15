@@ -6,6 +6,14 @@ mrt add bootstrap-3
 mrt add iron:router
 meteor add iron:routermrt
 
+meteor add accounts-base
+
 ------init SERVER
 mrt --port $IP:$PORT
 meteor --port $IP:$PORT
+
+
+
+http://easycanvas.herokuapp.com/
+https://github.com/caio-ribeiro-pereira/meteor-bird
+https://github.com/bielversallini/easy-canvas

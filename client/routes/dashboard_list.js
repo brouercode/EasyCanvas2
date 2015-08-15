@@ -1,11 +1,11 @@
 Router.route("/", function() {
- this.render("home", {
+ this.render("dashboardList", {
   data: function() {
    return {
    }
   }
  });
 }, { 
-  name: "home", 
+  name: "dashboardList", 
   fastRender: true
 });
